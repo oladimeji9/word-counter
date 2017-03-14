@@ -1,0 +1,25 @@
+{
+  "name": "words-counter",
+  "version": "1.0.0",
+  "description": "word in sentence counter\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ds in \u001b[2~s\u001b[2~entence counter",
+  "main": "app/wordslib.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine test/wordstest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "akande oladimeji",
+  "license": "ISC"
+}
